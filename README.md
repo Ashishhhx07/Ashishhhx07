@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Academic projects and lab-based experimentation<br><br>Improving my coding skills (C, Python)<br><br>Building well-structured technical reports<br><br>🤝 I’m looking to collaborate on<br><br>Mini projects in electronics & computing<br><br>Documentation or report writing<br><br>Open-source learning projects<br><br>🙌 I’m looking for help with<br><br>Optimizing C programs<br><br>Understanding advanced electronics concepts<br><br>Preparing for exams and viva questions<br><br>🌱 I’m currently learning<br><br>Microprocessors & communication systems<br><br>Data structures (C basics)<br><br>Git and GitHub workflow<br><br>💬 Ask me about<br><br>Electronics fundamentals, viva prep, experiment readings<br><br>Assignments, circuit diagrams, report formatting<br><br>Simple coding problems in C<br><br>⚡ Fun fact<br><br>I like turning difficult topics into simple explanations that anyone can understand!
+🔭 Working: Projects
+🤝 Collab: Projects
+🙌 Help: Concepts
+🌱 Learning: Microprocessors
+💬 Ask: Circuits
+⚡ Fun: Simplifying
 
 
 ## 🌐 Socials:
